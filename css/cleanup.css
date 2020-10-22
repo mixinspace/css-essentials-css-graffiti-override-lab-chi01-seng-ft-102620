@@ -5,7 +5,7 @@
 }
 
 #wall #tag-2 {
-  background: url(../images/tag-2.png) no-repeat;
+  background: url(../images/tag-2.png);
     z-index: 6;
     display: none;
 }
